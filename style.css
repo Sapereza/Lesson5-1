@@ -99,14 +99,15 @@ p/*this is the selector*/{
         width: 290px;
         height: 190px;
         padding-right: 10px; 
-        padding-top: 10px
+        padding-top: 10px;
+        margin-bottom: 5px
     }
 
     #sidebarBOXTopImage /*this is an id*/{
         background-color: transparent;
-        width:408;
+        width:40%;
         height:190px;
-        background-image:ur1("https://wallpaperaccess.com/full/4216093.png");
+        background-image: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.66bkIw0gCjEMQdE6UoKrRgAAAA%26pid%3DApi&f=1&ipt=166936632e7859c9439ec16ecce93a086404845c5631826ec2aaeeb870fe60ff&ipo=images");
         background-size: cover;
         float:left;
         margin-right:10px
@@ -117,15 +118,14 @@ p/*this is the selector*/{
         width:290px;
         height:190px;
         padding-right: 10px;
-        padding-top: 10px
-
+        padding-top: 10px;
     }
 
     #sidebarBoxMiddleImage /*this is an id*/{
         background-color: transparent;
-        width: 408;
-        height:190px;
-        background-image:url("https://i.pinimg.com/originals/e9/a5/d5/e9a5d5eb800c33ba29£99172530182£2.gif");
+        width:40%;
+        height:150px;
+        background-image: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.t7p6IeFDFP3Uclqdh4J69gAAAA%26pid%3DApi&f=1&ipt=b9df0ef89da826748c8f4515b03cd37e4c584a94351a6d8d7fb0daebc846c048&ipo=images");
         background-size: cover;
         float:left;
         margin-right: 10px;
@@ -137,16 +137,17 @@ p/*this is the selector*/{
         width: 290px;
         height: 190px;
         padding-right: 10px;
-        padding-top: 10px
+        padding-top: 10px;
+
 
 }
 
     #sidebarBOXBottomImage /*this is an id*/{
 
         background-color: transparent;
-        width: 408; 
+        width: 40%; 
         height:190px;
-        background-image:url("https://dyn1.heritagestatic.c om/1f?set=path85B182F282F682F282F382F1262359885D82C sizedata85B850x60085D6call=ur185Bfile83Aproduct. cha in85D");
+        background-image:url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.4HuhLQsBF2Nd9rBbVx-WTgAAAA%26pid%3DApi&f=1&ipt=1095347cb406ebb45118c804c73c2da5753382793a9850c94e406b88bb028c4e&ipo=images");
         background-size: cover;
         float:left;
         margin-right: 10px;
